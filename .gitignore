@@ -1,1 +1,5 @@
 .DS_Store
+**/obj_dir/
+*.vcd
+*.gtkw
+**/vbuddy.cfg
